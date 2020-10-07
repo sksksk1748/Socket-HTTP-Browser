@@ -27,9 +27,10 @@
 ![](https://i.imgur.com/zjYChCZ.png)
 ![](https://i.imgur.com/Bs4lQqb.png)
 
+*   p1.html 跟 p2.html 要互相link(超連結)
 *   URL have not .html and have p2.html is OK
     *   除了上述情況外，都是 "404 Not Found"
-    
+
 ## Reference
 
 * None
